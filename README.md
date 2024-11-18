@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Thanh Binh</h1>
 <h3 align="center">A passionate Frontend Developer focusing on TypeScript & React</h3>
 
-## 🚀 About Me
 I'm a developer with strong focus on modern frontend technologies. My expertise includes:
 - ⚛️ React.js for building dynamic user interfaces
 - 📘 TypeScript for type-safe development
