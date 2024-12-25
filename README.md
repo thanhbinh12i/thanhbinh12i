@@ -1,6 +1,9 @@
 # 💫About Me :
 <h1 align="center">Hi 👋, I'm Thanh Binh</h1>
 <h3 align="center">A passionate Frontend Developer focusing on TypeScript & React</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+</p>
 
 I'm a developer with strong focus on modern frontend technologies. My expertise includes:
 - ⚛️ React.js for building dynamic user interfaces
